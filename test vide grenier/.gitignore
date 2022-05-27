@@ -1,0 +1,7 @@
+vendor
+.idea
+composer.lock
+
+node_modules
+App/Config.php
+.vscode
